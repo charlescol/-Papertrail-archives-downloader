@@ -65,5 +65,3 @@ for archive in archives :
 	""" Update progressbar """			
 	count += 1
 	pbar.update(count)
-
-#find logs -type f -print0 | xargs -0 grep -rE '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}'
