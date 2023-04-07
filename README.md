@@ -1,6 +1,6 @@
 # -Papertrail-archives-downloader
 
-This Python script, created by charlescol on April 7, 2023, allows you to download Papertrail archives between two specific dates. 
+This Python script, created on April 7, 2023, allows you to download Papertrail archives between two specific dates. 
 With this script, you can easily retrieve logs for a specific time frame and analyze them as needed. Simply specify the start and 
 end dates in the script and let it do the work for you. 
 This script is a useful tool for anyone who needs to access Papertrail archives and wants to automate the retrieval process.
