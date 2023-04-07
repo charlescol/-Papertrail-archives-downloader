@@ -16,7 +16,7 @@ argParser.add_argument("-o", "--output", type=str, help="Output path", required=
 
 args = argParser.parse_args()
 
-""" Format Input """
+""" Format inputs """
 url = "https://papertrailapp.com/api/v1/archives"
 headers = {"X-Papertrail-Token": args.token}
 result_path = args.output
