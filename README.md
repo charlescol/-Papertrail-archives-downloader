@@ -9,6 +9,7 @@ This script is a useful tool for anyone who needs to access Papertrail archives 
 example : 
 
 ```{r, engine='bash', count_lines}
+$ pip install -r requirements.txt
 $ python download.py --start 2023-03-28 --end 2023-04-02 -t fQvvhjA9q4qWhzEsAS3k -o ./logs/
 $ find logs -type f -print0 | xargs -0 grep -rE '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}'
 ```
