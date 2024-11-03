@@ -1,8 +1,6 @@
 # -Papertrail-archives-downloader
 
-This Python script allows to download Papertrail archives between two specific dates. 
-With this script, you can easily retrieve logs for a specific time frame and analyze them as needed. Simply specify the start and 
-end dates in the script and let it do the work for you. 
+This Python script enables you to download Papertrail log archives for a specified date range. By setting the start and end dates, you can quickly retrieve logs from a particular timeframe, making it easy to analyze and review relevant log data as needed. Simply input the desired date range, and the script will handle the rest, fetching and organizing the logs for your convenience.
 
 
 example : 
